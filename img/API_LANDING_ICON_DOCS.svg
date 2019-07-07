@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="17px" viewBox="0 0 20 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>API_LANDING_ICON_DOCS</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="V2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-633.000000, -2328.000000)">
+        <g id="SECTION-BLOCK---DOCUMENTATION" transform="translate(-11.000000, 2254.000000)">
+            <g id="API_LANDING_ICON_DOCS" transform="translate(642.000000, 70.000000)">
+                <rect id="Rectangle-9" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+                <path d="M20,17 L14,17 C13.735,17 13.48,17.105 13.293,17.293 L13,17.586 L13,7.414 L14.414,6 L20,6 L20,17 Z M10,17 L4,17 L4,6 L9.586,6 L11,7.414 L11,17.586 L10.707,17.293 C10.52,17.105 10.265,17 10,17 L10,17 Z M21,4 L14,4 C13.735,4 13.48,4.105 13.293,4.293 L12,5.586 L10.707,4.293 C10.52,4.105 10.265,4 10,4 L3,4 C2.448,4 2,4.448 2,5 L2,18 C2,18.552 2.448,19 3,19 L9.586,19 L11.293,20.707 C11.488,20.902 11.744,21 12,21 C12.256,21 12.512,20.902 12.707,20.707 L14.414,19 L21,19 C21.552,19 22,18.552 22,18 L22,5 C22,4.448 21.552,4 21,4 L21,4 Z" id="Fill-105" fill="#1882F8"></path>
+                <polygon id="Fill-106" fill="#1882F8" points="7 10 10 10 10 8 7 8"></polygon>
+                <polygon id="Fill-107" fill="#1882F8" points="5 13 10 13 10 11 5 11"></polygon>
+                <polygon id="Fill-108" fill="#1882F8" points="5 16 10 16 10 14 5 14"></polygon>
+                <polygon id="Fill-109" fill="#1882F8" points="14 16 19 16 19 14 14 14"></polygon>
+                <polygon id="Fill-110" fill="#1882F8" points="14 13 19 13 19 11 14 11"></polygon>
+                <polygon id="Fill-111" fill="#1882F8" points="14 10 17 10 17 8 14 8"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

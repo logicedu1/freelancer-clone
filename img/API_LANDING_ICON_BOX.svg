@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>API_LANDING_ICON_BOX</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="V2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-635.000000, -2490.000000)">
+        <g id="SECTION-BLOCK---DOCUMENTATION" transform="translate(-11.000000, 2254.000000)">
+            <g id="API_LANDING_ICON_BOX" transform="translate(644.000000, 234.000000)">
+                <rect id="Rectangle-9" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+                <path d="M13,19.4619 L13,11.6499 L20,8.5389 L20,16.3509 L13,19.4619 Z M4,8.5389 L11,11.6499 L11,19.4619 L4,16.3509 L4,8.5389 Z M12,9.9059 L5.462,7.0009 L7.75,5.9829 L14.288,8.8899 L12,9.9059 Z M12,4.0949 L18.538,7.0009 L16.75,7.7949 L10.212,4.8899 L12,4.0949 Z M21.406,6.0869 L12.406,2.0869 C12.148,1.9719 11.852,1.9719 11.594,2.0869 L2.594,6.0869 C2.233,6.2469 2,6.6059 2,7.0009 L2,17.0009 C2,17.3959 2.233,17.7539 2.594,17.9139 L11.594,21.9139 C11.723,21.9719 11.862,22.0009 12,22.0009 C12.138,22.0009 12.277,21.9719 12.406,21.9139 L21.406,17.9139 C21.767,17.7539 22,17.3959 22,17.0009 L22,7.0009 C22,6.6059 21.767,6.2469 21.406,6.0869 L21.406,6.0869 Z" id="Fill-724" fill="#1882F8"></path>
+            </g>
+        </g>
+    </g>
+</svg>

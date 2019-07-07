@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="21px" viewBox="0 0 24 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>API_LANDING_ICON_COMPUTER</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="V2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-933.000000, -2490.000000)">
+        <g id="SECTION-BLOCK---DOCUMENTATION" transform="translate(-11.000000, 2254.000000)">
+            <g id="API_LANDING_ICON_COMPUTER" transform="translate(944.000000, 235.000000)">
+                <rect id="Rectangle-9" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+                <path d="M2,15 L21.997,15 L21.997,16 L2,16 L2,15 Z M22,3 L21.998,13 L2,13 L2,3 L22,3 Z M22,1 L2,1 C0.897,1 0,1.897 0,3 L0,16 C0,17.103 0.897,18 2,18 L11,18 L11,20 L7,20 L7,22 L17,22 L17,20 L13,20 L13,18 L22,18 C23.103,18 24,17.103 24,16 L24,3 C24,1.897 23.103,1 22,1 L22,1 Z" id="Fill-1702" fill="#1882F8"></path>
+            </g>
+        </g>
+    </g>
+</svg>
